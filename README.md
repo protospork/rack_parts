@@ -8,7 +8,7 @@ The rack:
 ![an 8U minirack](/PXL_20250305_000510257.MP(1).jpg)
 
 All panel designs conform to this very professional design doc:
-![a post-it note](https://github.com/user-attachments/assets/48f30ac7-cdd9-4c19-a664-db3b08b9e136)
+![a post-it note](/tab_design.jpg)
 
 coming soon:
 * stl copies of all the models so you can preview them in github
