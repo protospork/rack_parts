@@ -10,11 +10,6 @@ The rack:
 All panel designs conform to this very professional design doc:
 ![a post-it note](/tab_design.jpg)
 
-coming soon:
-* stl copies of all the models so you can preview them in github (done?)
-* I explain what's going on here (keep scrolling)
-
-
 I've been running three micro PCs for a while and when I saw all of the initial 10" rack coverage last fall/winter (particularly hardwarehaven's 3d printed setup) I decided to plan my own build. I didn't originally intend to use the Geeekpi rack but it had a price drop around the same time I was getting frustrated pricing out different panel/enclosure options for my rack-rail skeleton.  
 So, I transplanted everything into the Deskpi but it's extremely shallow so I reused two rack rails to add about 50mm to the total depth of the setup.  
 ![close up of the extension being test-fit](/img/extensions.png)  
